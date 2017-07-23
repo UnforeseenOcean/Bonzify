@@ -1,2 +1,2 @@
 # Bonzify
-Another stanky trojan for Vinesauce Joel
+Source Code will be coming soon, because I have to improve the rushed code a lot, add disclaimers and stuff...
